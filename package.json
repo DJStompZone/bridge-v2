@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"@mdi/font": "^5.8.55",
-		"@vue/composition-api": "^1.0.5",
+		"@vue/composition-api": "^1.7.1",
 		"bridge-common-utils": "^0.3.3",
 		"bridge-model-viewer": "^0.7.7",
 		"buffer": "^6.0.3",
